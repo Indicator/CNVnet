@@ -1,6 +1,6 @@
 README
 
-The package is used to identify potential epistasis/interactions among Copy Number Variants (CNVs) for categorical phenotypes. This version of code is used to demonstrate how the result in the paper is computed. Please contact the authors of the paper to report bugs and any other problems.
+The package is used to identify identify the joint effect of multiple Copy Number Variants (CNVs) on categorical phenotypes. This version of code is used to demonstrate how the result in the paper is computed. Please contact the authors of the paper to report bugs and any other problems.
 
 
 ---- Requirement ----
